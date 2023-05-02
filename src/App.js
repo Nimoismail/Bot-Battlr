@@ -1,5 +1,7 @@
-import React from "react";
-import BotsPage from "./BotsPage";
+import React from "react"
+import BotsPage from "./components/BotsPage"
+import './App.css';
+
 
 function App() {
   return (
